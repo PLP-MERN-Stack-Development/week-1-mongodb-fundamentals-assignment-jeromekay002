@@ -37,7 +37,7 @@ Learn the fundamentals of MongoDB, including installation, creating collections,
 ### Task 4: Aggregation Pipeline
 - Create an aggregation pipeline to calculate the average price of books by genre
 - Create an aggregation pipeline to find the author with the most books in the collection
-- Implement a pipeline that groups books by publication decade and counts them
+- Implement Ba pipeline that groups books by publication decade and counts them
 
 ### Task 5: Indexing
 - Create an index on the `title` field for faster searches
@@ -68,3 +68,15 @@ Learn the fundamentals of MongoDB, including installation, creating collections,
 4. Commit and push your changes to GitHub
 5. Your submission will be automatically graded based on the criteria in the autograding configuration
 6. The instructor will review your submission after the autograding is complete 
+
+## 📋 My Setup and Submission Details
+
+### Environment Setup
+- **Node.js version:** 18.12.1 (or your installed version)
+- **MongoDB setup:** Using MongoDB Atlas free tier cluster (or local MongoDB version X.Y.Z)
+- **MongoDB Shell:** mongosh.
+### How to Run the Project
+1. Clone the repository.
+2. Install dependencies (if any) with:
+   ```bash
+   npm install
